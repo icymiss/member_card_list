@@ -1,0 +1,45 @@
+#inputDataArea-flex-container{
+    display: flex;
+    justify-content: space-between;
+}
+#inputDataArea{
+    background-color: #F9F9F9;
+}
+#cardCode{
+    display: flex;
+    height: 50px;
+    width: 400px;
+    margin: 30px;
+}
+#inputMenuPic{
+    width: 40px;
+    height: 30px;
+    margin-right: 10px;
+    margin-top: 10px;
+    background-image: url("../img/menu.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#placeholder{
+    box-sizing: border-box;
+    border: none;
+}
+#inputCalendarPic{
+    width: 40px;
+    height: 30px;
+    margin-right: 10px;
+    margin-top: 10px;
+    background-image: url("../img/calendar.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#accountCode {
+    display: flex;
+    height: 50px;
+    margin: 30px;
+}
+#userName {
+    display: flex;
+    height: 50px;
+    margin: 30px;
+}

@@ -1,0 +1,13 @@
+#button-flex-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+#button{
+    background-color: #0299AE;
+}
+#longer-button{
+    width: 300px;
+    background-color: #0299AE;
+}

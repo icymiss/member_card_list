@@ -1,0 +1,10 @@
+#detailEdit-flex-container{
+    display: flex;
+    justify-content: space-evenly;
+    width: fit-content;
+}
+#button-inResultTable{
+    margin-right: 5px;
+    background-color: #2AB0C5;;
+    color: #F9F9F9;
+}
